@@ -1,11 +1,4 @@
-# CRAB channels communication overhead
-
-An implementation to evaluate the communication overhead of CRAB channels.
-
-## Usage:
-
-- Install Python >= 3.7.3
-- Install dependencies (check requirements.txt)
-- execute main.py
-- inspect stdout output to see raw transactions and size
-- optional: enter different private keys and unspent TX outputs, publish resulting transactions on testnet
+# CROW EVALUATION
+This repo is a fork of the repo of the paper Securing Lightning against Rational Miners paper by Lukas Aumayr, Zeta Avarikioti, Matteo Maffei and Subhra Mazumdar
+# Instruction
+Run `python crow.py` to see the evaluation
